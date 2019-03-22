@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6371e7402f48116d2f2ce6dbbe3cd2fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/suchi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/307b80f577392a20148c679793d61412/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/812f0dac5586c0782f25d27b764bd326/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6ee6e8f65c5703478e9003609eb31873/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1059cbb30ee51da4328838bdac924f06/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/617d702791c633229e0667cc05fde0fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0d7f08033f0e646b2cd5a250d123bdc5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1f6e8a1546e47dd96214b6c41b3c7bea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/suchi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/23f8e84073ba05a9550e07aefe16ee64/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/suchi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/53815f9d2e4b8f65ea05c2fadc68e24f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/suchi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/69a71622ad54c13ae240a5240a5be99e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/suchi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/184383dc39f86158f5f5d62c5ccead47/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:7:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/suchi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/307b80f577392a20148c679793d61412/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/suchi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/307b80f577392a20148c679793d61412/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.myfirstapp.DisplayMessageActivity
+ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:parentActivityName
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:16:13-55
+	android:name
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:15:19-57
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:18:13-20:49
+	android:value
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:20:17-46
+	android:name
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:19:17-63
+activity#com.example.myfirstapp.MainActivity
+ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:22:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6371e7402f48116d2f2ce6dbbe3cd2fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6371e7402f48116d2f2ce6dbbe3cd2fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/suchi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/307b80f577392a20148c679793d61412/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/suchi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/307b80f577392a20148c679793d61412/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/812f0dac5586c0782f25d27b764bd326/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/812f0dac5586c0782f25d27b764bd326/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6ee6e8f65c5703478e9003609eb31873/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6ee6e8f65c5703478e9003609eb31873/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1059cbb30ee51da4328838bdac924f06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1059cbb30ee51da4328838bdac924f06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/617d702791c633229e0667cc05fde0fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/617d702791c633229e0667cc05fde0fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0d7f08033f0e646b2cd5a250d123bdc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0d7f08033f0e646b2cd5a250d123bdc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1f6e8a1546e47dd96214b6c41b3c7bea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/suchi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1f6e8a1546e47dd96214b6c41b3c7bea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/suchi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/23f8e84073ba05a9550e07aefe16ee64/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/suchi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/23f8e84073ba05a9550e07aefe16ee64/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/suchi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/53815f9d2e4b8f65ea05c2fadc68e24f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/suchi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/53815f9d2e4b8f65ea05c2fadc68e24f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/suchi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/69a71622ad54c13ae240a5240a5be99e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/suchi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/69a71622ad54c13ae240a5240a5be99e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/suchi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/184383dc39f86158f5f5d62c5ccead47/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/suchi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/184383dc39f86158f5f5d62c5ccead47/AndroidManifest.xml:20:5-44
+INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/suchi/AndroidStudioProjects/MyFirstApp/app/src/main/AndroidManifest.xml

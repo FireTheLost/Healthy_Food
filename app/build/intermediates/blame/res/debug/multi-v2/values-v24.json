@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/suchi/AndroidStudioProjects/MyFirstApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/home/suchi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6371e7402f48116d2f2ce6dbbe3cd2fb/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}
